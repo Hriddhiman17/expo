@@ -9,7 +9,7 @@ You'll need a paid developer account for each platform for which you wish to upl
 
 To learn how to build native binaries, see [Building Standalone Apps](building-standalone-apps.md) or [Building Standalone Apps on Your CI](turtle-cli.md).
 
-## 2. Start the upload
+## 2. Start the upload#
 
 To upload the previously built standalone app to the appropriate app store, you simply run `expo upload:android` or `expo upload:ios`. However, you have a few options for choosing which app binary you want to upload (remember to choose one at the time):
 
